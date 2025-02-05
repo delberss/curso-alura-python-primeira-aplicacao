@@ -30,6 +30,7 @@ O **Sabor Express** é uma aplicação de linha de comando que permite cadastrar
 
 ## Exemplo de Uso
 Ao iniciar a aplicação, o menu principal será exibido:
+
 ![Imagem do menu](assets/image.png)
 
 ## Melhorias Futuras
